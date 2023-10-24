@@ -22,3 +22,13 @@ User experience theme:
 - Warna: ala suasana pagi / light blue / light yellow
   
 Inspirasi desain:
+https://cdn.dribbble.com/userupload/5351979/file/original-52323de189bed66d94b6ccf3d01989d9.gif
+
+## 2. User Story
+Sebagai | Saya Ingin Bisa | Sehingga | Prioritas
+---|---|---|---
+Pengguna | Transcribe percakapan | dapat memahami apa yang orang ucapkan | ⭐⭐⭐⭐⭐
+Pengguna | Text to speech | Membacakan apa yang saya ketik | ⭐⭐⭐⭐⭐
+Pengguna | Mencari lokasi disekitar dengan fasilitas ramah disabilitas | Mendapat informasi mengenai fasilitas ramah disabilitas | ⭐⭐⭐⭐
+Pengguna | Memberikan  mengenai lokasi dengan fasilitas ramah disabilitas | Dapat memberikan tanggapan | ⭐⭐⭐
+Pengguna | Membalas Komentar | Dapat memberikan tanggapan | ⭐⭐⭐
