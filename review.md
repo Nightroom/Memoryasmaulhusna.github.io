@@ -59,15 +59,17 @@ erDiagram
 ```
 
 ## 4. Arsitektur Sistem
-
-  Web Server: JavaScript - Express.js
-  Aplikasi Web Backend: JavaScript - Express.js
-  Database: PostgreSQL 
-  Aplikasi Android & iPhone: JavaScript - React Native
-
+```mermaid
+flowchart BT 
+  subgraph cloud
+    B[Web Server: JavaScript - Express.js] <--> C[Aplikasi Web Backend: JavaScript - Express.js] 
+    C <--> D[Database: PostgreSQL] 
+  end
+  A[Aplikasi Android & iPhone: JavaScript - React Native] <--> B 
+```
 ## 5. Teknologi, Library, dan Framework
 
-bla bla bla
+bla
 
 ## 6. Desain User Experience dan User Interface
 
