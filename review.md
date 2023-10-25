@@ -4,7 +4,7 @@ Di era digitalisasi seperti sekarang, kebutuhan manusia sudah tidak bisa lagi te
 Aplikasi ini berguna sebagai media edukasi asma allah, yang mengenalkan para pengguna dengan asmaul husna melalui permainan menyenangkan yang berfokus pada metode mencocokkan, mengingat, ketepatan, insting, dan ketangkasan pengguna dalam menangkap informasi yang didapatkan. Tujuan dari aplikasi ini sendiri adalah untuk mengenalkan asmaul husna kepada berbagai kalangan di masyarakat agar lebih mudah dalam menghafal asmaul husna dengan lebih menyenangkan, terlepas dari stigma bahwa menghafal asmaul husna adalah sebuah kegiatan yang membosankan dan monoton. 
 ## Branding
 Branding meliputi:
-- Merk: Game Memory Asmaul Husna
+- Merk: Game Memana
 - Tagline: Hadir untuk memberikan edukasi asma allah di era digitalisasi
 - Campaign: Aplikasi yang berguna sebagai media pendekatan dan pengenalan asmaul husna melalui metode yang menyenangkan.
 
