@@ -94,7 +94,7 @@ flowchart BT
 
 ![Contoh](https://github.com/Nightroom/Memoryasmaulhusna.github.io/blob/master/Cuplikan%20layar%202023-10-31%20170706.png)
 
-Untuk lebih lengkapnya bisa di cek di https://www.figma.com/file/ap1hosOkcal10u42dFHBxW/Avatarg-(Community)?type=design&node-id=41-138&mode=design&t=Y5og76kWE9BvhZ1h-0 
+Untuk lebih lengkapnya bisa di cek di ![Figma](https://www.figma.com/file/ap1hosOkcal10u42dFHBxW/Avatarg-(Community)?type=design&node-id=41-138&mode=design&t=Y5og76kWE9BvhZ1h-0) 
 ## 7. Demonstrasi Video
 
 Link youtube nya
