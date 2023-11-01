@@ -92,7 +92,7 @@ flowchart BT
 ## 6. Desain User Experience dan User Interface
 
 Bisa load image 
-![Contoh](https://fastly.picsum.photos/id/318/536/354.jpg?hmac=Ixy-wle80nudIR_cmnF1iY2y6rMUH7_9sk-BP1fTpM8)
+![Contoh](https://github.com/Nightroom/Memoryasmaulhusna.github.io/blob/master/Cuplikan%20layar%202023-10-31%20170706.png)
 
 ## 7. Demonstrasi Video
 
