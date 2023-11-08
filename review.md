@@ -41,7 +41,6 @@ Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di (htt
 ```mermaid
 erDiagram
   PENGGUNA {
-    int id_pengguna
     string username
     string email
     string password
