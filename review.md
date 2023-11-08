@@ -71,7 +71,7 @@ flowchart BT
 
  - Bahasa Pemrograman:
 
-   - HTML, CSS, dan javascript
+   - java, javafx
 
 - Platform Mobile:
 
@@ -79,7 +79,7 @@ flowchart BT
 
 - Framework Aplikasi:
 
-   - React Native
+   - Meven
 
 - Database:
 
