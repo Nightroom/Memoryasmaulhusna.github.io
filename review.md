@@ -26,11 +26,13 @@ Inspirasi desain:
 ## 2. User Story
 Sebagai | Saya Ingin Bisa | Sehingga | Prioritas
 ---|---|---|---
-Pengguna | Transcribe percakapan | dapat memahami apa yang orang ucapkan | ⭐⭐⭐⭐⭐
-Pengguna | Text to speech | Membacakan apa yang saya ketik | ⭐⭐⭐⭐⭐
-Pengguna | Mencari lokasi disekitar dengan fasilitas ramah disabilitas | Mendapat informasi mengenai fasilitas ramah disabilitas | ⭐⭐⭐⭐
-Pengguna | Memberikan  mengenai lokasi dengan fasilitas ramah disabilitas | Dapat memberikan tanggapan | ⭐⭐⭐
-Pengguna | Membalas Komentar | Dapat memberikan tanggapan | ⭐⭐⭐
+Pengguna | Login ke dalam game | Dapat memulai permainan | ⭐⭐⭐
+Pengguna | Memilih level | Dapat menyesuaikan game dengan tingkat kesulitan yang di inginkan | ⭐⭐⭐
+Pengguna | Melakukan setting |Dapat menyesuaikan fitur yang di inginkan dalam game play|⭐⭐⭐⭐
+Pengguna | Melakukan reset  | Dapat mengulangi kembali game ditingkat kesulitan yang sama | ⭐⭐⭐⭐
+Pengguna | Lanjut ke level berikutnya | Dapat memperoleh tingkat kesulitan yang lebih tinggi | ⭐⭐⭐⭐
+Pengguna | Memencet pilihan kartu | Dapat mengetahui isi di balik kartu | ⭐⭐⭐⭐⭐
+Pengguna | Melihat gambar di balik kartu | Dapat menyocokan antara dua gambar yang sama | ⭐⭐⭐⭐⭐
 
 ## 3. Struktur Data
 
