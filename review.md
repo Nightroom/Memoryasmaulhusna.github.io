@@ -63,7 +63,7 @@ erDiagram
 flowchart BT 
   subgraph cloud
     B[Web Server: JavaScript - Express.js] <--> C[Aplikasi Web Backend: JavaScript - Express.js] 
-    C <--> D[Database: PostgreSQL] 
+    C <--> D[Database: Neo4j] 
   end
   A[Aplikasi Android & iPhone: JavaScript - React Native] <--> B 
 ```
