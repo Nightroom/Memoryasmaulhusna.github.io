@@ -101,8 +101,57 @@ Untuk lebih lengkapnya bisa di cek di ![Figma](https://www.figma.com/file/ap1hos
 Link youtube nya
 
 ## 8. Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu ?
+Mesin komputasi
 
-Link youtube nya di detik jawaban ini
+Mesin komputasi adalah perangkat keras yang menjalankan software, termasuk game. Memory game adalah software yang berjalan di atas mesin komputasi. Mesin komputasi menyediakan komponen-komponen berikut yang diperlukan untuk menjalankan memory game:
+
+    Unit pemrosesan pusat (CPU) adalah komponen utama dari mesin komputasi yang bertanggung jawab untuk mengeksekusi kode game. Dalam memory game, CPU bertanggung jawab untuk membaca dan mengeksekusi kode yang menampilkan kartu, melacak kartu yang telah dipilih, dan menghitung skor.
+    Memori utama adalah komponen mesin komputasi yang menyimpan data game, seperti kartu dan skor. Dalam memory game, memori utama menyimpan gambar kartu, posisi kartu, dan skor pemain.
+    Unit pengolah grafis (GPU) adalah komponen mesin komputasi yang bertanggung jawab untuk menampilkan grafik game. Dalam memory game, GPU bertanggung jawab untuk menampilkan gambar kartu di layar.
+
+Sistem operasi
+
+Sistem operasi adalah software yang mengelola sumber daya mesin komputasi, seperti memori dan CPU. Sistem operasi menyediakan layanan yang diperlukan untuk menjalankan software, termasuk game. Dalam memory game, sistem operasi menyediakan layanan berikut:
+
+    Manajemen memori adalah layanan yang mengalokasikan dan mengelola memori utama. Dalam memory game, sistem operasi mengalokasikan memori untuk kode game, data game, dan grafik game.
+    Manajemen file adalah layanan yang membaca dan menulis file game. Dalam memory game, sistem operasi membaca file game untuk memuat kode game dan data game, dan menulis file game untuk menyimpan skor pemain.
+    Antarmuka pengguna adalah layanan yang memungkinkan pengguna berinteraksi dengan game. Dalam memory game, sistem operasi menyediakan antarmuka pengguna yang memungkinkan pemain untuk memilih kartu dan melihat skor.
+
+Contoh spesifik
+
+Berikut adalah contoh spesifik bagaimana mesin komputasi dan sistem operasi digunakan dalam memory game:
+
+    Saat pemain membuka game, sistem operasi memuat kode game ke memori utama.
+
+Ketika pemain membuka game, sistem operasi membaca file game dan memuat kode game ke memori utama. Kode game kemudian dijalankan oleh CPU.
+
+    Saat pemain memilih kartu, CPU mengeksekusi kode yang memindahkan kartu ke layar.
+
+Ketika pemain memilih kartu, CPU mengeksekusi kode yang memindahkan kartu ke layar. Kode ini meminta GPU untuk menampilkan gambar kartu di posisi yang dipilih pemain.
+
+    Saat pemain menutup game, sistem operasi menghapus kode game dari memori utama.
+
+Ketika pemain menutup game, sistem operasi menghapus kode game dari memori utama. Ini mencegah game berjalan di latar belakang dan menggunakan sumber daya mesin komputasi.
+
+Peningkatan
+
+Mesin komputasi dan sistem operasi dapat digunakan untuk meningkatkan memory game dengan cara berikut:
+
+    Mesin komputasi yang lebih cepat dapat membuat game berjalan lebih lancar.
+
+Mesin komputasi yang lebih cepat dapat mengeksekusi kode game lebih cepat. Ini dapat membuat game berjalan lebih lancar dan responsif.
+
+    Sistem operasi dengan manajemen memori yang lebih efisien dapat menggunakan memori utama secara lebih efektif.
+
+Sistem operasi dengan manajemen memori yang lebih efisien dapat mengalokasikan memori utama secara lebih efisien. Ini dapat mencegah game menggunakan terlalu banyak memori dan menyebabkan lag.
+
+    Sistem operasi dengan antarmuka pengguna yang lebih intuitif dapat membuatnya lebih mudah bagi pemain untuk mempelajari dan memainkan game.
+
+Sistem operasi dengan antarmuka pengguna yang lebih intuitif dapat membuat game lebih mudah digunakan. Ini dapat membuat game lebih menarik bagi pemain dan meningkatkan kepuasan pengguna.
+
+Dengan terus berkembangnya teknologi, mesin komputasi dan sistem operasi akan terus memainkan peran yang lebih penting dalam memory game.
+
+Link youtube nya di detik jawaban in
 
 ## 9. Bagaimana algoritma, struktur data, dan bahasa pemrograman berperan dalam produk teknologi informasimu ?
 
