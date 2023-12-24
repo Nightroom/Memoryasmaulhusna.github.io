@@ -60,11 +60,8 @@ erDiagram
 
 ## 4. Arsitektur Sistem
 ```mermaid
-flowchart BT 
-  subgraph cloud
-    B[Web Server: React Native ] <--> C[Aplikasi Web Backend: React Native] <--> A[Database: PostgreSQL] 
-
-  end
+flowchart TD
+    id1[(Database: PostgreSQL)] <--> id2[Aplikasi Web Backend: React Native] <--> id3[Web Server: React Native]  
 ```
 ## 5. Teknologi, Library, dan Framework
 
