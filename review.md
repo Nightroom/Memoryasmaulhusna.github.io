@@ -86,7 +86,7 @@ flowchart BT
 ## 6. Desain User Experience dan User Interface
 
 
-![Contoh](https://github.com/Nightroom/Memoryasmaulhusna.github.io/blob/master/Cuplikan%20layar%202023-10-31%20170706.png)
+![Contoh](https://github.com/Nightroom/Memoryasmaulhusna.github.io/blob/master/Screenshot%202023-12-24%20095252.png)
 
 Untuk lebih lengkapnya bisa di cek di ![Figma](https://www.figma.com/file/ap1hosOkcal10u42dFHBxW/Avatarg-(Community)?type=design&node-id=41%3A138&mode=design&t=Y5og76kWE9BvhZ1h-1) 
 ## 7. Demonstrasi Video
