@@ -69,21 +69,18 @@ flowchart BT
 ```
 ## 5. Teknologi, Library, dan Framework
 
- - Bahasa Pemrograman:
-
-   - JavaScript
-
 - Framework Aplikasi:
-
    - React Native
-
 - Database:
-
    - PostgreSQL
-
 - UI/UX Design:
-
    - Figma
+- Text Editor:
+   - Visual Studio Code
+- Web Languange:
+   - HTML, CSS
+- Programming Languange:
+   - Javascript
 
 
 ## 6. Desain User Experience dan User Interface
