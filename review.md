@@ -71,15 +71,11 @@ flowchart BT
 
  - Bahasa Pemrograman:
 
-   - java, javafx
-
-- Platform Mobile:
-
-   - VSC
+   - JavaScript
 
 - Framework Aplikasi:
 
-   - Meven
+   - React Native
 
 - Database:
 
