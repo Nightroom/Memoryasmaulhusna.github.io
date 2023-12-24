@@ -62,8 +62,8 @@ erDiagram
 ```mermaid
 flowchart BT 
   subgraph cloud
-    B[Web Server: React Native ] <--> C[Aplikasi Web Backend: React Native] 
-    C <--> D[Database: PostgreSQL] 
+    C[Web Server: React Native ] <--> C[Aplikasi Web Backend: React Native] 
+    B <--> D[Database: PostgreSQL] 
   end
 ```
 ## 5. Teknologi, Library, dan Framework
