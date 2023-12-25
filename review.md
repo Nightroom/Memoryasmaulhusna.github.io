@@ -29,6 +29,8 @@ Sebagai | Saya Ingin Bisa | Sehingga | Prioritas
 Pengguna | Login ke dalam game | Dapat memulai permainan | ⭐⭐⭐
 Pengguna | Memilih level | Dapat menyesuaikan game dengan tingkat kesulitan yang di inginkan | ⭐⭐⭐
 Penggunac| Share to public | Dapat melakukan share ke public terkait best skor,dll.|⭐⭐⭐
+Pengguna | Best Skor Public | Dapat melihat reting Best Skor Public |⭐⭐⭐
+Pengguna | Invite | Dapat melakukan invite untuk melakukan permainan bersama |⭐⭐⭐⭐
 Pengguna | Melakukan setting |Dapat menyesuaikan fitur yang di inginkan dalam game play|⭐⭐⭐⭐
 Pengguna | Melakukan reset  | Dapat mengulangi kembali game ditingkat kesulitan yang sama | ⭐⭐⭐⭐
 Pengguna | Lanjut ke level berikutnya | Dapat memperoleh tingkat kesulitan yang lebih tinggi | ⭐⭐⭐⭐
