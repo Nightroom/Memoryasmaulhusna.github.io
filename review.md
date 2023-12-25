@@ -39,9 +39,10 @@ Pengguna | Melihat gambar di balik kartu | Dapat menyocokan antara dua gambar ya
 Untuk lebih lengkapnya bisa di cek di ![Mermaid](https://mermaid.live/edit#pako:eNqFU7tuwzAM_BVBc_MDnlukQxIUzWrAYGzaEaqHIVFtgyT_Xkl2HvTSxbCOhyN5JM-ydR3KStYW_auCwYOpbW2FWIPBUcNJXC6rlTuLd2dQiEoYNIcIJBjnnF9CKEtC4zfqZkiRCQvklR3ER6JNQAeEpJJY_jQbZdQkdqd-YkBiyA5_qUiKwrxOwSyJ_pZ7psaA3i6TowGlGTJCCD_OdxP4LOpdrzQuu95CiF-cwfPuljnHQhMPYzbFGI09PYEHDNQUI0LrPFcIR1gga-_iyJAthgADZ7XOkneatZYn1eyRKBP-meidxzvcu2g7hpgYVMtnt1HDkRqTdorDYIeY6nw4XZLPhcyDXJRSGLyEYiFfq-JyE6aKuVm5lafAVb5Igz6tQpf2vQjXko6Y5iar9NthD1FTnU4hUyGS259sKyvyEV9kHPPiziciqx50uKNvnSLnb0wsr-10V-W8rn_q7CSI) 
 
 ```mermaid
+
 erDiagram
 
-  Gameplay ||--o{ Home  : play
+  Gameplay ||--o{ Home  : Playing 
   Gameplay {
     int level_game
     string Play
@@ -49,14 +50,13 @@ erDiagram
     string Reset
     string Next_game  
   }
-
     Player {
     string username
     string email
     string password
     
   }
-     Home ||--o{ Profile  : Setting to
+    Profile ||--o{ Home  : Setting_to
     Profile {
     string Name
     string profil 
@@ -68,20 +68,19 @@ erDiagram
     string control
     
   }
-Game_Setting ||--o{ Home  : Setting to
+Game_Setting ||--o{ Home  :     Setting_to 
   Game_Setting {
     string Sound
     string music 
     string Light_mode
     string Language 
   }
- Home||--o{ Player  :Login
+  Home ||--o{ Player  : Login 
   Home {
     string Level
     string Profil_setting
     string Game_setting
   }
-  
 ```
 
 ## 4. Arsitektur Sistem
