@@ -18,7 +18,7 @@ User experience theme:
 - Mudah
 - Sederhana
 - Menyenangkan
-- Warna: ala suasana pagi / light blue / light yellow
+- Warna: Orange / white / black / gray / greend
   
 Inspirasi desain:
 ![Contoh](https://cdn.dribbble.com/userupload/5351979/file/original-52323de189bed66d94b6ccf3d01989d9.gif)
