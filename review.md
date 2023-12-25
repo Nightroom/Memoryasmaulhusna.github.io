@@ -105,7 +105,8 @@ flowchart TD
    - HTML, CSS
 - Programming Languange:
    - Javascript
-
+- Library:
+   -  Bootstrap
 
 ## 6. Desain User Experience dan User Interface
 
