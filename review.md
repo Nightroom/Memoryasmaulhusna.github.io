@@ -49,7 +49,7 @@ erDiagram
     string Reset
     string Next_game  
   }
- Player||--o{ Home  :Login
+
     Player {
     string username
     string email
@@ -75,6 +75,7 @@ Game_Setting ||--o{ Home  : Setting to
     string Light_mode
     string Language 
   }
+ Home||--o{ Player  :Login
   Home {
     string Level
     string Profil_setting
