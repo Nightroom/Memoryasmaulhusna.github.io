@@ -36,24 +36,49 @@ Pengguna | Melihat gambar di balik kartu | Dapat menyocokan antara dua gambar ya
 
 ## 3. Struktur Data
 
-Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di (https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
+Untuk lebih lengkapnya bisa di cek di ![Mermaid](https://mermaid.live/edit#pako:eNqFU7tuwzAM_BVBc_MDnlukQxIUzWrAYGzaEaqHIVFtgyT_Xkl2HvTSxbCOhyN5JM-ydR3KStYW_auCwYOpbW2FWIPBUcNJXC6rlTuLd2dQiEoYNIcIJBjnnF9CKEtC4zfqZkiRCQvklR3ER6JNQAeEpJJY_jQbZdQkdqd-YkBiyA5_qUiKwrxOwSyJ_pZ7psaA3i6TowGlGTJCCD_OdxP4LOpdrzQuu95CiF-cwfPuljnHQhMPYzbFGI09PYEHDNQUI0LrPFcIR1gga-_iyJAthgADZ7XOkneatZYn1eyRKBP-meidxzvcu2g7hpgYVMtnt1HDkRqTdorDYIeY6nw4XZLPhcyDXJRSGLyEYiFfq-JyE6aKuVm5lafAVb5Igz6tQpf2vQjXko6Y5iar9NthD1FTnU4hUyGS259sKyvyEV9kHPPiziciqx50uKNvnSLnb0wsr-10V-W8rn_q7CSI) 
 
 ```mermaid
 erDiagram
-  PENGGUNA {
-    string username
-    string email
-    string password
-    
-  }
-  PENGGUNA ||--o{ Gameplay  : membuat 
+
+  Gameplay ||--o{ Home  : membuat 
   Gameplay {
     int level_game
     string Play
     datetime time_Limit 
     string Reset
-    string Next_game 
+    string Next_game  
+  }
+    Player {
+    string username
+    string email
+    string password
     
+  }
+    Profile ||--o{ Home  : Masuk
+    Profile {
+    string Name
+    string profil 
+    int Level_left 
+    int best_time_score
+    string share
+    string Group
+    string Message
+    string control
+    
+  }
+Game_Setting ||--o{ Home  : membuat 
+  Game_Setting {
+    string Sound
+    string music 
+    string Light_mode
+    string Language 
+  }
+  Home ||--o{ Player  : membuat 
+  Home {
+    string Level
+    string Profil_setting
+    string Game_setting
   }
   
 ```
