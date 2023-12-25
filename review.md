@@ -41,7 +41,7 @@ Untuk lebih lengkapnya bisa di cek di ![Mermaid](https://mermaid.live/edit#pako:
 ```mermaid
 erDiagram
 
-  Gameplay ||--o{ Home  : membuat 
+  Gameplay ||--o{ Home  : play
   Gameplay {
     int level_game
     string Play
@@ -49,13 +49,14 @@ erDiagram
     string Reset
     string Next_game  
   }
+ Player||--o{ Home  :Login
     Player {
     string username
     string email
     string password
     
   }
-    Profile ||--o{ Home  : Masuk
+     Home ||--o{ Profile  : Setting to
     Profile {
     string Name
     string profil 
@@ -67,14 +68,13 @@ erDiagram
     string control
     
   }
-Game_Setting ||--o{ Home  : membuat 
+Game_Setting ||--o{ Home  : Setting to
   Game_Setting {
     string Sound
     string music 
     string Light_mode
     string Language 
   }
-  Home ||--o{ Player  : membuat 
   Home {
     string Level
     string Profil_setting
