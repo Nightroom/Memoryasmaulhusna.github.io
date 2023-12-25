@@ -27,13 +27,21 @@ Inspirasi desain:
 Sebagai | Saya Ingin Bisa | Sehingga | Prioritas
 ---|---|---|---
 Pengguna | Login ke dalam game | Dapat memulai permainan | ⭐⭐⭐
+
 Pengguna | Memilih level | Dapat menyesuaikan game dengan tingkat kesulitan yang di inginkan | ⭐⭐⭐
+
 Penggunac| Share to public | Dapat melakukan share ke public terkait best skor,dll.|⭐⭐⭐
+
 Pengguna | Melakukan setting |Dapat menyesuaikan fitur yang di inginkan dalam game play|⭐⭐⭐⭐
+
 Pengguna | Melakukan reset  | Dapat mengulangi kembali game ditingkat kesulitan yang sama | ⭐⭐⭐⭐
+
 Pengguna | Lanjut ke level berikutnya | Dapat memperoleh tingkat kesulitan yang lebih tinggi | ⭐⭐⭐⭐
+
 Pengguna | Setting Profil| Dapat mengubah name, char, dan melihat best skor |⭐⭐⭐⭐
+
 Pengguna | Memencet pilihan kartu | Dapat mengetahui isi di balik kartu | ⭐⭐⭐⭐⭐
+
 Pengguna | Melihat gambar di balik kartu | Dapat menyocokan antara dua gambar yang sama | ⭐⭐⭐⭐⭐
 
 ## 3. Struktur Data
