@@ -113,7 +113,7 @@ flowchart TD
 
 ![Contoh](https://github.com/Nightroom/Memoryasmaulhusna.github.io/blob/master/Screenshot%202023-12-24%20095252.png)
 
-Untuk lebih lengkapnya bisa di cek di ![Figma](https://www.figma.com/file/ap1hosOkcal10u42dFHBxW/Avatarg-(Community)?type=design&node-id=41%3A138&mode=design&t=Y5og76kWE9BvhZ1h-1) 
+Untuk lebih lengkapnya bisa di cek di ![Figma](https://www.figma.com/file/ap1hosOkcal10u42dFHBxW/Avatarg-(Community)?type=design&node-id=0-1&mode=design&t=EHifcDSZptQHqDKf-0) 
 ## 7. Demonstrasi Video
 
 Link youtube nya
