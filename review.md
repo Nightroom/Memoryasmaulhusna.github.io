@@ -50,7 +50,7 @@ erDiagram
   Gameplay {
     int level_game
     string Play
-    datetime time_Limit 
+    datetime time_record 
     string Reset
     string Next_game  
   }
@@ -69,7 +69,7 @@ erDiagram
     string share
     string Group
     string Message
-    string control
+
     
   }
 Setting_game ||--o{ Home  : setting_to 
