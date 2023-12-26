@@ -45,7 +45,7 @@ Untuk lebih lengkapnya bisa di cek di ![Mermaid](https://mermaid.live/edit#pako:
 
 erDiagram
 
-  Gameplay ||--o{ Home  : Playing 
+  Gameplay ||--o{ Home  : membuat 
   Gameplay {
     int level_game
     string Play
@@ -59,7 +59,7 @@ erDiagram
     string password
     
   }
-    Profile ||--o{ Home  : Setting_to
+    Profile ||--o{ Home  : Masuk
     Profile {
     string Name
     string profil 
@@ -71,18 +71,19 @@ erDiagram
     string control
     
   }
-Game_Setting ||--o{ Home  :     Setting_to 
+Game_Setting ||--o{ Home  : membuat 
   Game_Setting {
     string Sound
     string music 
     string Light_mode
     string Language 
   }
-  Home ||--o{ Player  : Login 
+  Home ||--o{ Player  : membuat 
   Home {
     string Level
-    string setting_Profil
-    string setting_Game)
+    string Setting_profil
+    string Setting_Game
+  }
 ```
 
 ## 4. Arsitektur Sistem
