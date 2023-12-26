@@ -43,6 +43,7 @@ Untuk lebih lengkapnya bisa di cek di ![Mermaid](https://mermaid.live/edit#pako:
 
 ```mermaid
 
+
 erDiagram
 
   Gameplay ||--o{ Home  : Playing 
@@ -72,7 +73,7 @@ erDiagram
     
   }
 Setting_game ||--o{ Home  : setting_to 
-  Game_Setting {
+  Setting_game {
     string Sound
     string music 
     string Light_mode
