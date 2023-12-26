@@ -82,7 +82,7 @@ Game_Setting ||--o{ Home  :     Setting_to
   Home {
     string Level
     string setting_Profil
-    string setting_Game
+    string setting_Game)
 ```
 
 ## 4. Arsitektur Sistem
