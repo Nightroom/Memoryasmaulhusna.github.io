@@ -62,7 +62,7 @@ erDiagram
     Profile ||--o{ Home  : Setting_to
     Profile {
     string Name
-    string profil 
+    string Character 
     int Level_left 
     int best_time_score
     string share
@@ -71,7 +71,7 @@ erDiagram
     string control
     
   }
-Game_Setting ||--o{ Home  : setting_to 
+Setting_game ||--o{ Home  : setting_to 
   Game_Setting {
     string Sound
     string music 
