@@ -117,17 +117,16 @@ flowchart TD
 Untuk lebih lengkapnya bisa di cek di ![Figma](https://www.figma.com/file/ap1hosOkcal10u42dFHBxW/Avatarg-(Community)?type=design&node-id=0-1&mode=design&t=EHifcDSZptQHqDKf-0) 
 ## 7. Demonstrasi Video
 
-Link youtube nya
+Link https://youtu.be/RmEc3OkZfuo?si=e6Gn1UmijsYOECVl
+
 
 ## 8. Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu ?
-Link youtube nya
+Link https://youtu.be/RmEc3OkZfuo?si=e6Gn1UmijsYOECVl
 
 ## 9. Bagaimana algoritma, struktur data, dan bahasa pemrograman berperan dalam produk teknologi informasimu ?
-Link youtube nya
+Link https://youtu.be/RmEc3OkZfuo?si=e6Gn1UmijsYOECVl
 
 ## 10. Bagaimana metode pengembangan perangkat lunak / Software Development Life Cycle berperan dalam produk teknologi informasimu ?
-Link youtube nya
-
+Link https://youtu.be/RmEc3OkZfuo?si=e6Gn1UmijsYOECVl
 ## 11. Bagaimana database / sistem basis data berperan dalam produk teknologi informasimu ?
-
-Link youtube nya di detik jawaban ini
+Link https://youtu.be/RmEc3OkZfuo?si=e6Gn1UmijsYOECVl
